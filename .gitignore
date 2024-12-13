@@ -1,0 +1,4 @@
+.idea
+dist
+playwright-experiments.iml
+node_modules
